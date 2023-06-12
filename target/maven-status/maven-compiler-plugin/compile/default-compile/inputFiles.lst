@@ -1,0 +1,9 @@
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\service\DocumentReaderService.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\config\OpenAiConfig.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\exception\AiReaderException.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\controller\DocumentReaderController.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\domain\entity\Document.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\repository\DocumentRepository.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\AiReaderApplication.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\config\WebConfig.java
+C:\Users\nb28916\Documents\Projects\indimeister\AIReader\src\main\java\com\indimeister\ai\reader\exception\AiReaderControllerAdvisor.java

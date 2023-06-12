@@ -1,0 +1,9 @@
+com\indimeister\ai\reader\service\DocumentReaderService.class
+com\indimeister\ai\reader\controller\DocumentReaderController.class
+com\indimeister\ai\reader\config\WebConfig.class
+com\indimeister\ai\reader\AiReaderApplication.class
+com\indimeister\ai\reader\exception\AiReaderControllerAdvisor.class
+com\indimeister\ai\reader\config\OpenAiConfig.class
+com\indimeister\ai\reader\domain\entity\Document.class
+com\indimeister\ai\reader\exception\AiReaderException.class
+com\indimeister\ai\reader\repository\DocumentRepository.class
